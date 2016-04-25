@@ -1,0 +1,27 @@
+Suite: testing
+Codename: squeezeplay-testing
+Date: Fri, 22 Apr 2016 15:30:45 UTC
+Architectures: i386 armhf
+Components: contrib
+Description: Debian squeezeplay testing
+MD5Sum:
+ 6a0a3ff27d99194eb4f0daa431f6e62f 706 contrib/binary-i386/Packages
+ f3cefa4edeebe7e3c5963d49ec32a0c1 459 contrib/binary-i386/Packages.gz
+ 54c94d0bc1bcad765dc76d3101f388e0 95 contrib/binary-i386/Release
+ 9029e275984607b88af773159e80b9c0 4546 contrib/binary-armhf/Packages
+ c85176d7b660ee63dbae0bce183d75d5 1955 contrib/binary-armhf/Packages.gz
+ 4e328b9fd75cc96fa449be7594cc7439 96 contrib/binary-armhf/Release
+SHA1:
+ f2841e860763bb4332ddf00fcaf2a339cf0a087e 706 contrib/binary-i386/Packages
+ 6d870a28dc828ea99233981b7baa0906db4a5d1b 459 contrib/binary-i386/Packages.gz
+ d509ac2ca81b6f4d478a1048d97c5fcadd0d1d8c 95 contrib/binary-i386/Release
+ 742a5a3f8fe10ceeb8bde5ac326e968c937d147e 4546 contrib/binary-armhf/Packages
+ dd77e6d8ce08252705939dc674061bdd83e43e4f 1955 contrib/binary-armhf/Packages.gz
+ b708ce382d0718d3dfd9819ab41278ac29070404 96 contrib/binary-armhf/Release
+SHA256:
+ c29165133b33112c941e9ebe746e524ff5b95151d59c0b0f2e7b8c1da5dfdc38 706 contrib/binary-i386/Packages
+ 8975ba5a29d43c6e72e4f1e53f86acd8d34b728da203f16c18763ca586bbd9e4 459 contrib/binary-i386/Packages.gz
+ 4d61431a41323ae2f49de9ac902959044f6bbff72820d27c97d41c15d917218e 95 contrib/binary-i386/Release
+ dcc8742ffd478e8d63eff1da1c2a2cad7f55c24bf605a44efd5e2390dd34cf67 4546 contrib/binary-armhf/Packages
+ 60833276164b8b52e398304e787e0d312f0bffdf134672db608807114f9511df 1955 contrib/binary-armhf/Packages.gz
+ 7b4506647aff21ccd355b9af0b77dfb5d293c703e867121bff1e5f079a54fea1 96 contrib/binary-armhf/Release

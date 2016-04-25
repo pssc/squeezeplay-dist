@@ -1,0 +1,12 @@
+Suite: testing
+Architectures: i386 armhf
+Codename: squeezeplay-testing
+Components: contrib
+Description: Debian squeezeplay testing
+
+Suite: stable
+Architectures: i386 armhf
+Codename: squeezeplay
+Components: contrib
+Description: Debian squeezeplay
+

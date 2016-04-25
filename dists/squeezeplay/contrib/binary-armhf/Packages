@@ -1,0 +1,38 @@
+Package: squeezeplay
+Version: 7.8.0+467~45ca8ee
+Architecture: armhf
+Maintainer: Not a Vaild email <pssc@github.com>
+Installed-Size: 12491
+Depends: libmad0, libflac8, libasound2, libjpeg8, libpng12-0, libogg0, squeezeplay-common, fonts-freefont-ttf, libfreetype6
+Recommends: alsa-utils, wicd-curses, wicd
+Suggests: libpacparser1, autossh, liblog4cplus-1.0-4, libboost-thread1.49.0, libboost-system1.49.0, libboost-program-options1.49.0, libcec2 (>= 2.2.0)
+Homepage: https://github.com/pssc/squeezeplay
+Priority: optional
+Section: sound
+Filename: pool/contrib/s/squeezeplay/squeezeplay_7.8.0+467~45ca8ee_armhf.deb
+Size: 5603636
+SHA256: 582da225d36d0c6842d48eeaa96c9920a4271367962878ce12cb5856e93ae0ec
+SHA1: 56236ccca56c153d0991c64dff9b41edd0f9d0b4
+MD5sum: 90c9aad0dfba6b7c51fa9e02951683ae
+Description: Logitech SqueezePlay
+ SqueezePlay is a Grapical client for the Logitech/SqueezeCenter music streaming server.
+
+Package: squeezeplay-common
+Source: squeezeplay
+Version: 7.8.0+467~45ca8ee
+Architecture: all
+Maintainer: Not a Vaild email <pssc@github.com>
+Installed-Size: 28897
+Depends: squeezeplay
+Homepage: https://github.com/pssc/squeezeplay
+Priority: optional
+Section: sound
+Filename: pool/contrib/s/squeezeplay/squeezeplay-common_7.8.0+467~45ca8ee_all.deb
+Size: 25006708
+SHA256: edac5aaa775cc87acbdb5f5137e1039bde4745e8600aa0b3e8e3961895741c0d
+SHA1: f4a3342adb79419447389cc73bca8b6603cf917a
+MD5sum: 4046846a5a950bac2c850b09354a53b1
+Description: Logitech SqueezePlay Lua Code and supporting scripts and config
+ SqueezePlay is a Grapical client for the Logitech/SqueezeCenter music streaming server.
+ Lua based code.
+

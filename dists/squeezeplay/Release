@@ -1,0 +1,27 @@
+Suite: stable
+Codename: squeezeplay
+Date: Mon, 25 Apr 2016 12:44:09 UTC
+Architectures: i386 armhf
+Components: contrib
+Description: Debian squeezeplay
+MD5Sum:
+ 6a0a3ff27d99194eb4f0daa431f6e62f 706 contrib/binary-i386/Packages
+ f3cefa4edeebe7e3c5963d49ec32a0c1 459 contrib/binary-i386/Packages.gz
+ 22941a4493a1373454deb04f4d21fbec 86 contrib/binary-i386/Release
+ bc30aa33a137dad6a02336007d6be251 1617 contrib/binary-armhf/Packages
+ 767c698ef4b9d415fc43a09e41ad50ab 769 contrib/binary-armhf/Packages.gz
+ 04cedb192b685a5c675ea81e7bedb532 87 contrib/binary-armhf/Release
+SHA1:
+ f2841e860763bb4332ddf00fcaf2a339cf0a087e 706 contrib/binary-i386/Packages
+ 6d870a28dc828ea99233981b7baa0906db4a5d1b 459 contrib/binary-i386/Packages.gz
+ c4a916c874d70979d694048c547a5eebfff9a4be 86 contrib/binary-i386/Release
+ 1720928e4619195151eff840a9359f017c28148a 1617 contrib/binary-armhf/Packages
+ 7fa67e886c04c07f5152777681c771aacd9fe232 769 contrib/binary-armhf/Packages.gz
+ c78d9893a37831c3742794711165ee3c14b205f2 87 contrib/binary-armhf/Release
+SHA256:
+ c29165133b33112c941e9ebe746e524ff5b95151d59c0b0f2e7b8c1da5dfdc38 706 contrib/binary-i386/Packages
+ 8975ba5a29d43c6e72e4f1e53f86acd8d34b728da203f16c18763ca586bbd9e4 459 contrib/binary-i386/Packages.gz
+ 164b078b902fd764e4a5d0501633f4bfa683d2c7a7806e5d5dcda5d7e6d26960 86 contrib/binary-i386/Release
+ 0eb8581669ca7e509d1a5efbde982d430848d2e6fa790ae251874c28482e2284 1617 contrib/binary-armhf/Packages
+ d61f0bf5d1c29e740f3eb5c9528878fd523e682e5bdc096b57a0fe3050f4e108 769 contrib/binary-armhf/Packages.gz
+ 62603b7ea6c8dc3bc924f85466c38d79a893b1f9fe7f927420b83e8146325c62 87 contrib/binary-armhf/Release

@@ -1,0 +1,13 @@
+# Truncate
+# --------
+
+git checkout --orphan newBranch
+git add -A  # Add all files and commit them
+git commit -m "clean"
+git branch -D master  # Deletes the master branch
+git branch -m master  # Rename the current branch to master
+git reflog expire --expire=now --all
+git gc --prune=now
+git gc --aggressive --prune=now
+git push -f origin master
+git push --set-upstream origin master

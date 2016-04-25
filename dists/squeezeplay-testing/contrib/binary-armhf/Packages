@@ -1,0 +1,112 @@
+Package: libcec-dev
+Source: libcec
+Version: 2.2.0-1
+Architecture: armhf
+Maintainer: Andres Mejia <amejia@debian.org>
+Installed-Size: 1333
+Depends: libcec2 (= 2.2.0-1)
+Homepage: http://libcec.pulse-eight.com/
+Priority: optional
+Section: libdevel
+Filename: pool/contrib/libc/libcec/libcec-dev_2.2.0-1_armhf.deb
+Size: 371348
+SHA256: 1e4c044fb4b592591b17b7a7b631dbeb4ee6dc3b9d75991680e71b5b15a11e55
+SHA1: 5313ae844dcd6a5add66c3a340cb4748e6a34692
+MD5sum: e2adfca71ce68d402b4eb04c94d0d28c
+Description: USB CEC Adaptor communication Library (development files)
+ This library provides support for the Pulse-Eight USB-CEC adapter.
+ .
+ This package provides the necessary files needed for development.
+
+Package: libcec2
+Source: libcec
+Version: 2.2.0-1
+Architecture: armhf
+Maintainer: Andres Mejia <amejia@debian.org>
+Installed-Size: 540
+Pre-Depends: multiarch-support
+Depends: libc6 (>= 2.13-28), libgcc1 (>= 1:4.4.0), liblockdev1, libstdc++6 (>= 4.3.0), libudev0 (>= 0.140)
+Multi-Arch: same
+Homepage: http://libcec.pulse-eight.com/
+Priority: optional
+Section: libs
+Filename: pool/contrib/libc/libcec/libcec2_2.2.0-1_armhf.deb
+Size: 208700
+SHA256: 436cec0829629f13b7421ceb89ba3907ce7b753dacfd486860bd8f40fef37103
+SHA1: 17248d427878be4d89cc465a17c009aeffed2316
+MD5sum: 75d692e991f8161d82804b37278e9487
+Description: USB CEC Adaptor communication Library (shared library)
+ This library provides support for the Pulse-Eight USB-CEC adapter.
+ .
+ This package provides the shared library.
+
+Package: libpacparser1
+Source: pacparser
+Version: 1.3.0-2
+Architecture: armhf
+Maintainer: Manu Garg <manugarg@gmail.com>
+Installed-Size: 1242
+Depends: libc6 (>= 2.13-28), libgcc1 (>= 1:4.4.0)
+Priority: extra
+Section: libs
+Filename: pool/contrib/p/pacparser/libpacparser1_1.3.0-2_armhf.deb
+Size: 374358
+SHA256: c51765e198088458c5b72236ef9b9801a90d77a74f4edaf0072b41bdb0d2c980
+SHA1: ed7a3cbb9f2353f567d68f587e603d2f4a1aa5ec
+MD5sum: 19683dd3391b6a976a70bee662702d08
+Description: library to parse proxy auto-config files
+ a library to parse proxy auto-config (PAC) files. Proxy auto-config files are
+ a vastly used proxy configuration method these days. Web browsers can use a PAC
+ file to determine which proxy server to use or whether to go direct for a given
+ URL. PAC files are written in JavaScript and can be programmed to return
+ different proxy methods (e.g. "PROXY proxy1:port; DIRECT") depending upon URL,
+ source IP address, protocol, time of the day etc. PAC files introduce a lot of
+ possibilities.
+ .
+ Needless to say, PAC files are now a widely accepted method for proxy
+ configuration management and companies all over are using them in corporate
+ environments. Almost all popular web browsers support PAC files. The idea
+ behind pacparser is to make it easy to add this PAC file parsing capability to
+ any program (C and Python supported right now).
+ .
+ This package contains the shared library, and pactester, a tool for testing
+ PAC files
+
+Package: squeezeplay
+Version: 7.8.0+467~45ca8ee
+Architecture: armhf
+Maintainer: Not a Vaild email <pssc@github.com>
+Installed-Size: 12491
+Depends: libmad0, libflac8, libasound2, libjpeg8, libpng12-0, libogg0, squeezeplay-common, fonts-freefont-ttf, libfreetype6
+Recommends: alsa-utils, wicd-curses, wicd
+Suggests: libpacparser1, autossh, liblog4cplus-1.0-4, libboost-thread1.49.0, libboost-system1.49.0, libboost-program-options1.49.0, libcec2 (>= 2.2.0)
+Homepage: https://github.com/pssc/squeezeplay
+Priority: optional
+Section: sound
+Filename: pool/contrib/s/squeezeplay/squeezeplay_7.8.0+467~45ca8ee_armhf.deb
+Size: 5603636
+SHA256: 582da225d36d0c6842d48eeaa96c9920a4271367962878ce12cb5856e93ae0ec
+SHA1: 56236ccca56c153d0991c64dff9b41edd0f9d0b4
+MD5sum: 90c9aad0dfba6b7c51fa9e02951683ae
+Description: Logitech SqueezePlay
+ SqueezePlay is a Grapical client for the Logitech/SqueezeCenter music streaming server.
+
+Package: squeezeplay-common
+Source: squeezeplay
+Version: 7.8.0+467~45ca8ee
+Architecture: all
+Maintainer: Not a Vaild email <pssc@github.com>
+Installed-Size: 28897
+Depends: squeezeplay
+Homepage: https://github.com/pssc/squeezeplay
+Priority: optional
+Section: sound
+Filename: pool/contrib/s/squeezeplay/squeezeplay-common_7.8.0+467~45ca8ee_all.deb
+Size: 25006708
+SHA256: edac5aaa775cc87acbdb5f5137e1039bde4745e8600aa0b3e8e3961895741c0d
+SHA1: f4a3342adb79419447389cc73bca8b6603cf917a
+MD5sum: 4046846a5a950bac2c850b09354a53b1
+Description: Logitech SqueezePlay Lua Code and supporting scripts and config
+ SqueezePlay is a Grapical client for the Logitech/SqueezeCenter music streaming server.
+ Lua based code.
+

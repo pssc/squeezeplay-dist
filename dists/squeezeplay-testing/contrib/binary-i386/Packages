@@ -1,18 +1,18 @@
 Package: squeezeplay-common
 Source: squeezeplay
-Version: 7.8.0+467~45ca8ee
+Version: 7.8.0+514~76e06be
 Architecture: all
 Maintainer: Not a Vaild email <pssc@github.com>
-Installed-Size: 28897
+Installed-Size: 28900
 Depends: squeezeplay
 Homepage: https://github.com/pssc/squeezeplay
 Priority: optional
 Section: sound
-Filename: pool/contrib/s/squeezeplay/squeezeplay-common_7.8.0+467~45ca8ee_all.deb
-Size: 25006708
-SHA256: edac5aaa775cc87acbdb5f5137e1039bde4745e8600aa0b3e8e3961895741c0d
-SHA1: f4a3342adb79419447389cc73bca8b6603cf917a
-MD5sum: 4046846a5a950bac2c850b09354a53b1
+Filename: pool/contrib/s/squeezeplay/squeezeplay-common_7.8.0+514~76e06be_all.deb
+Size: 25007178
+SHA256: d2b26082edcb60617387fbbe7c5ab8b5c9f7ae58346e3541afa714ab499b2be2
+SHA1: 0a105c0b2fdbc9a5fb18d55e4728d7344349311f
+MD5sum: 99ec14b666fe57e72dfc19cd0537993e
 Description: Logitech SqueezePlay Lua Code and supporting scripts and config
  SqueezePlay is a Grapical client for the Logitech/SqueezeCenter music streaming server.
  Lua based code.

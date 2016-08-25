@@ -10,14 +10,9 @@ Install
 Instructions to add squeezeplay reopo and install for raspbian.  Fragments should be copy paste.
 
 ```bash
-apt-get install apt-transport-https
-
-```
-
-```bash
 cd /etc/apt/sources.list.d/
 cat <<EOF >squeezeplay.list
-deb [ trusted=yes ] https://raw.githubusercontent.com/pssc/squeezeplay-dist/master squeezeplay contrib
+deb [ trusted=yes ] http://pssc.github.io/squeezeplay-dist squeezeplay contrib
 EOF
 
 apt-get update

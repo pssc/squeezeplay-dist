@@ -1,1 +1,1 @@
-deb [ trusted=yes ] https://raw.githubusercontent.com/pssc/squeezeplay-dist/master squeezeplay contrib
+deb [ trusted=yes ] http://pssc.github.io/squeezeplay-dist/ squeezeplay contrib

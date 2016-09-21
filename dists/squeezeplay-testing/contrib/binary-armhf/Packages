@@ -73,39 +73,39 @@ Description: library to parse proxy auto-config files
  PAC files
 
 Package: squeezeplay
-Version: 7.8.0+514~76e06be
+Version: 7.8.0+533~db34cdf
 Architecture: armhf
 Maintainer: Not a Vaild email <pssc@github.com>
-Installed-Size: 12491
+Installed-Size: 12492
 Depends: libmad0, libflac8, libasound2, libjpeg8, libpng12-0, libogg0, squeezeplay-common, fonts-freefont-ttf, libfreetype6
 Recommends: alsa-utils, wicd-curses, wicd
 Suggests: libpacparser1, autossh, liblog4cplus-1.0-4, libboost-thread1.49.0, libboost-system1.49.0, libboost-program-options1.49.0, libcec2 (>= 2.2.0)
 Homepage: https://github.com/pssc/squeezeplay
 Priority: optional
 Section: sound
-Filename: pool/contrib/s/squeezeplay/squeezeplay_7.8.0+514~76e06be_armhf.deb
-Size: 5603666
-SHA256: 81d95b0b237eee28a8abb2e216ee9c1faa5ed64d0318e8278eb416b00b22176d
-SHA1: e05bbffff0a06ec8fef3d114884936f2b06b35a8
-MD5sum: 09cbd00b667cfcfd25afc29edeb5f940
+Filename: pool/contrib/s/squeezeplay/squeezeplay_7.8.0+533~db34cdf_armhf.deb
+Size: 5603824
+SHA256: 7eecfc15bc9ac02f3c49bd25b7db3f9d8532f2f4d9504971949807c238e09005
+SHA1: 9825c0abf9ea82b267248df7ef254bfd6947f4a4
+MD5sum: c7e9896774d628e8d31fc5d7cf2e3389
 Description: Logitech SqueezePlay
  SqueezePlay is a Grapical client for the Logitech/SqueezeCenter music streaming server.
 
 Package: squeezeplay-common
 Source: squeezeplay
-Version: 7.8.0+514~76e06be
+Version: 7.8.0+533~db34cdf
 Architecture: all
 Maintainer: Not a Vaild email <pssc@github.com>
-Installed-Size: 28900
+Installed-Size: 28902
 Depends: squeezeplay
 Homepage: https://github.com/pssc/squeezeplay
 Priority: optional
 Section: sound
-Filename: pool/contrib/s/squeezeplay/squeezeplay-common_7.8.0+514~76e06be_all.deb
-Size: 25007178
-SHA256: d2b26082edcb60617387fbbe7c5ab8b5c9f7ae58346e3541afa714ab499b2be2
-SHA1: 0a105c0b2fdbc9a5fb18d55e4728d7344349311f
-MD5sum: 99ec14b666fe57e72dfc19cd0537993e
+Filename: pool/contrib/s/squeezeplay/squeezeplay-common_7.8.0+533~db34cdf_all.deb
+Size: 25007176
+SHA256: 5d7d879c9f71c0de34d5e3031fddf54776bab5041798dcf62ae3a953233e1bde
+SHA1: 2aa3f034eaef40d6c4928d13e370c9f4d29b12b2
+MD5sum: 9d2bdf9c69b0580402391bcc90cb9854
 Description: Logitech SqueezePlay Lua Code and supporting scripts and config
  SqueezePlay is a Grapical client for the Logitech/SqueezeCenter music streaming server.
  Lua based code.

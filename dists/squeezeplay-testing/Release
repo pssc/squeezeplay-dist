@@ -1,27 +1,27 @@
 Suite: testing
 Codename: squeezeplay-testing
-Date: Thu, 25 Aug 2016 11:11:53 UTC
+Date: Wed, 21 Sep 2016 12:54:59 UTC
 Architectures: i386 armhf
 Components: contrib
 Description: Debian squeezeplay testing
 MD5Sum:
- 89e793a3304c859bd0589c7bfe01b80c 706 contrib/binary-i386/Packages
- 3c91af54bf29f6deef2303e059eb9606 462 contrib/binary-i386/Packages.gz
+ 9ed41eac3174b4fb12444c960be19aa9 706 contrib/binary-i386/Packages
+ afe2997b6a77951a683f78cca8654b17 464 contrib/binary-i386/Packages.gz
  54c94d0bc1bcad765dc76d3101f388e0 95 contrib/binary-i386/Release
- 4d02c3a14d87a5abdefc29a160c9ca50 4546 contrib/binary-armhf/Packages
- 928c53e1f885a01d0fe3a8b92edabe1b 1952 contrib/binary-armhf/Packages.gz
+ 5265b26a5a54394d391c062d8439cfec 4546 contrib/binary-armhf/Packages
+ 750016ec119ff78ec03f11de1e300e3b 1949 contrib/binary-armhf/Packages.gz
  4e328b9fd75cc96fa449be7594cc7439 96 contrib/binary-armhf/Release
 SHA1:
- b2adb6f5aae06c7f63d0bdf05d357fa5ea245fec 706 contrib/binary-i386/Packages
- faf06088e77e1a82f9cab14fa754249d6f4c6063 462 contrib/binary-i386/Packages.gz
+ 0f68c066bb19dc7bfc334c362a60babe2e820579 706 contrib/binary-i386/Packages
+ c8b91959cc2776c6e5f7bd457ad67123b105c7b7 464 contrib/binary-i386/Packages.gz
  d509ac2ca81b6f4d478a1048d97c5fcadd0d1d8c 95 contrib/binary-i386/Release
- 22f534e9e66fd862c40de50d0e89c6b4bda5246e 4546 contrib/binary-armhf/Packages
- 012f4982b067f29da4e51691a386f0df0b1aba87 1952 contrib/binary-armhf/Packages.gz
+ a1d22f7b79b08e6b0447feb526cf5984d6e26a66 4546 contrib/binary-armhf/Packages
+ 5aacf6bf8fbae1fc14eb0db584dbe5cac60f74c5 1949 contrib/binary-armhf/Packages.gz
  b708ce382d0718d3dfd9819ab41278ac29070404 96 contrib/binary-armhf/Release
 SHA256:
- 3c21b9a633df03bff232dc36c1584f80221e8ff33eddbb861623a0e91ea02aba 706 contrib/binary-i386/Packages
- 2e3d6b074c29cc2dd9e73fe03c9229bad057733aaaf02112c7daba09ae627fca 462 contrib/binary-i386/Packages.gz
+ 53026dc572ce27b5e69200105f0368e02fcb7b4e1232944feedd25fd225595a8 706 contrib/binary-i386/Packages
+ 461d7b12593f28cd78f66cd4666960fd8fc65e6de91056f618d0f06d88d73044 464 contrib/binary-i386/Packages.gz
  4d61431a41323ae2f49de9ac902959044f6bbff72820d27c97d41c15d917218e 95 contrib/binary-i386/Release
- e749cfa06900ce933c3ebeb15c0192bd2de7c249dfbe8446cf56c0c11621b715 4546 contrib/binary-armhf/Packages
- 73544d215df632e3573a2f83478f24ea6c7453245171265060b962f25d9fb7a0 1952 contrib/binary-armhf/Packages.gz
+ 7bfcca3021ea00dd2af6c250f89097352262dce0d72499cc1bf0993ad6e1e82d 4546 contrib/binary-armhf/Packages
+ 9f98f0cc00d65e6c6ee455f4fb6634043d2fc87bc85359475b0b1938ea0fc0e2 1949 contrib/binary-armhf/Packages.gz
  7b4506647aff21ccd355b9af0b77dfb5d293c703e867121bff1e5f079a54fea1 96 contrib/binary-armhf/Release

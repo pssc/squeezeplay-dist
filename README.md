@@ -9,6 +9,8 @@ Install
 
 Instructions to add squeezeplay reopo and install for raspbian.  Fragments should be copy paste.
 
+*** Update to fix fetch over https ***
+
 ```bash
 cd /etc/apt/sources.list.d/
 cat <<EOF >squeezeplay.list

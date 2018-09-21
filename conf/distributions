@@ -4,9 +4,14 @@ Codename: squeezeplay-testing
 Components: contrib
 Description: Debian squeezeplay testing
 
-Suite: stable
+Suite: old stable
 Architectures: armhf
 Codename: squeezeplay
 Components: contrib
 Description: Debian squeezeplay
 
+Suite: old stable
+Architectures: armhf
+Codename: stretch
+Components: contrib
+Description: Debian squeezebox realted packages

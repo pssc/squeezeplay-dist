@@ -1,0 +1,19 @@
+Package: squeezeplay
+Version: 7.8.0+544~fd4e418b9
+Architecture: armhf
+Maintainer: Not a Vaild email <pssc@github.com>
+Installed-Size: 15259
+Depends: libmad0, libflac8, libasound2, libjpeg62-turbo, libpng16-16, libogg0, squeezeplay-common, fonts-freefont-ttf, libfreetype6
+Recommends: alsa-utils, wicd-curses, wicd
+Suggests: libpacparser1, autossh, liblog4cplus-1.0-4, libboost-thread1.49.0, libboost-system1.49.0, libboost-program-options1.49.0, libcec2 (>= 2.2.0)
+Homepage: https://github.com/pssc/squeezeplay
+Priority: optional
+Section: sound
+Filename: pool/contrib/s/squeezeplay/squeezeplay_7.8.0+544~fd4e418b9_armhf.deb
+Size: 3531416
+SHA256: 927eb8a326d0809b2523a85da98a35786810c9191e2cf66cbfed55acc5733ede
+SHA1: 69db0edcef5b1fbcbd3fd18e5b7a7372a75d23c7
+MD5sum: f9ba787cb10e5084391b4400e9af2265
+Description: Logitech SqueezePlay
+ SqueezePlay is a Grapical client for the Logitech/SqueezeCenter music streaming server.
+

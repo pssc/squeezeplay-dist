@@ -8,10 +8,28 @@ Suite: old stable
 Architectures: armhf
 Codename: squeezeplay
 Components: contrib
-Description: Debian squeezeplay
+Description: Raspbian squeezeplay
 
-Suite: old stable
+Suite: stable
 Architectures: armhf
 Codename: stretch
 Components: contrib
-Description: Debian squeezebox realted packages
+Description: Raspbian packages
+
+Suite: stable
+Architectures: armhf
+Codename: raspbian-stretch
+Components: contrib
+Description: Raspbian squeezeplay
+
+Suite: stable
+Architectures: armhf
+Codename: raspbian-stretch-rc
+Components: contrib
+Description: Raspbian rc
+
+Suite: stable
+Architectures: armhf
+Codename: raspbian-stretch-beta
+Components: contrib
+Description: Raspbian testing

@@ -13,8 +13,8 @@ Instructions to add squeezeplay reopo and install for raspbian.  Fragments shoul
 
 ```bash
 cd /etc/apt/sources.list.d/
-cat <<EOF >squeezeplay.list
-deb [ trusted=yes ] http://pssc.github.io/squeezeplay-dist squeezeplay contrib
+cat <<EOF >squeezeplay-dist.list
+deb [ trusted=yes ] http://pssc.github.io/squeezeplay-dist raspbian-${lsb_release -s -c) contrib
 EOF
 
 apt-get update

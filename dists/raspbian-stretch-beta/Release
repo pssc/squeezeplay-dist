@@ -1,18 +1,18 @@
-Suite: old stable
-Codename: stretch
-Date: Fri, 21 Sep 2018 21:25:49 UTC
+Suite: stable
+Codename: raspbian-stretch-beta
+Date: Tue, 25 Sep 2018 20:33:34 UTC
 Architectures: armhf
 Components: contrib
-Description: Debian squeezebox realted packages
+Description: Raspbian testing
 MD5Sum:
- 7bc321f5f3239a37a4cfd5655edd4af3 1633 contrib/binary-armhf/Packages
- 49c5eb13594f11fab4bb07235383a2fc 777 contrib/binary-armhf/Packages.gz
- 1e94ae4e1c1030b692ff6c73867990a2 107 contrib/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-armhf/Packages.gz
+ 17a097be86707b1dd66c1f5da64c99c3 85 contrib/binary-armhf/Release
 SHA1:
- c369770c495dc3810b8ca013f85f615111fba876 1633 contrib/binary-armhf/Packages
- cc06c2a7ae2f1801500416f94ab9314491aa29b8 777 contrib/binary-armhf/Packages.gz
- 51064c7d0deed6087d1085f6b6553deea8709252 107 contrib/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-armhf/Packages.gz
+ 8de9d46f62e6c257eb2659022a9e5d74ca9bdfa6 85 contrib/binary-armhf/Release
 SHA256:
- 3aa3ad0bacdfe3426496bdf049fb94f3dcad1f3a58c0444881f17844906e7a87 1633 contrib/binary-armhf/Packages
- f1729bae9b494363c9f2d16695e80e03a1aafa944585ab7b38a0e32a9d6c0d9e 777 contrib/binary-armhf/Packages.gz
- 5c49326d6f89bdf1d859919e0e5585da1a082ac1e3848ed7bd66738bcdc3d674 107 contrib/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-armhf/Packages.gz
+ b83acca5be15c8c58f8cb48668dff01aa72ed41cbbc1a3d3255db4a3f3285b59 85 contrib/binary-armhf/Release

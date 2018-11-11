@@ -1,5 +1,5 @@
 Package: squeezeplay
-Version: 7.8.0+550~f6ba265e6
+Version: 7.8.0+551~8d562e353
 Architecture: armhf
 Maintainer: Not a Vaild email <pssc@github.com>
 Installed-Size: 15299
@@ -9,30 +9,30 @@ Suggests: libpacparser1, autossh, liblog4cplus-1.0-4, libboost-thread1.49.0, lib
 Homepage: https://github.com/pssc/squeezeplay
 Priority: optional
 Section: sound
-Filename: pool/contrib/s/squeezeplay/squeezeplay_7.8.0+550~f6ba265e6_armhf.deb
-Size: 3567532
-SHA256: 117585174f0377464a828fdfc117db23ad87163f32c66d89e8151f8a04eeb952
-SHA1: 91950b80e918117edd4e224f5369b4031e59fa90
-MD5sum: da6058bd6880ae61f374e00913679bdc
+Filename: pool/contrib/s/squeezeplay/squeezeplay_7.8.0+551~8d562e353_armhf.deb
+Size: 3568150
+SHA256: 1416368f67eda1ebd143cf0ba0236081b866ddc9ba4e9ec998c6499a800e8b8d
+SHA1: 1758f573b7217dd685567ddf658c95c62c6936ae
+MD5sum: 23dfdb942a5409563c96639d56195d05
 Description: Logitech SqueezePlay
  SqueezePlay is a Grapical client for the Logitech/SqueezeCenter music streaming server.
 
 Package: squeezeplay-common
 Source: squeezeplay
-Version: 7.8.0+550~f6ba265e6
+Version: 7.8.0+551~8d562e353
 Architecture: all
 Maintainer: Not a Vaild email <pssc@github.com>
-Installed-Size: 26955
+Installed-Size: 26956
 Depends: squeezeplay
 Suggests: x11vnc
 Homepage: https://github.com/pssc/squeezeplay
 Priority: optional
 Section: sound
-Filename: pool/contrib/s/squeezeplay/squeezeplay-common_7.8.0+550~f6ba265e6_all.deb
-Size: 16739078
-SHA256: 47882ee682dd53bc2010028e51a2d980dbec4a87f81f9e58c04ec590e4f5a7bd
-SHA1: 1ff415ce334f32e2ba296cbfa7fa57ffde20b76f
-MD5sum: c3dd261b6e398e49545af6b80b5007da
+Filename: pool/contrib/s/squeezeplay/squeezeplay-common_7.8.0+551~8d562e353_all.deb
+Size: 16738010
+SHA256: 1e33ce74a84b5b71ab2095a71be333d44baad51d2fa455c8ca4f449194cfbc37
+SHA1: 871f938eae68329df4f13eea0b65f30c346f3192
+MD5sum: 2f18138b6f76f790dbcce6b071302c4f
 Description: Logitech SqueezePlay Lua Code and supporting scripts and config
  SqueezePlay is a Grapical client for the Logitech/SqueezeCenter music streaming server.
  Lua based code.

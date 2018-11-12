@@ -1,5 +1,5 @@
-* Warning Beta *
-=================
+** Warning Beta **
+-------------------
 
 Squeezeplay Pi Packages from:-
 

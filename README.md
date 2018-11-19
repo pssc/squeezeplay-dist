@@ -1,5 +1,6 @@
-* Warning Beta *
-=================
+** Warning Beta **
+-------------------
+
 Squeezeplay Pi Packages from:-
 
 https://github.com/pssc/squeezeplay

@@ -1,19 +1,19 @@
 Package: libcec-daemon
-Version: 0.9.5-0
+Version: 0.9.5-1
 Architecture: armhf
 Maintainer: Ben Klopfenstein <ben@klopnet.com>
-Installed-Size: 1033
+Installed-Size: 1036
 Depends: libboost-atomic1.62.0, libboost-chrono1.62.0, libboost-date-time1.62.0, libboost-program-options1.62.0, libboost-system1.62.0, libboost-thread1.62.0, libc6 (>= 2.4), libcec4, libgcc1 (>= 1:3.5), liblog4cplus-1.1-9, libstdc++6 (>= 5.2), libboost-program-options1.58.0, libboost-system1.58.0, libboost-thread1.58.0
 Homepage: https://github.com/benklop/libcec-daemon
 Priority: optional
 Section: utils
-Filename: pool/contrib/libc/libcec-daemon/libcec-daemon_0.9.5-0_armhf.deb
-Size: 158546
-SHA256: d72ddbe7c729aa9c8bfcd9db8ee78d008359fa5eaca5353b39453924035b2806
-SHA1: e83eb937d2c22f0dded0f7c9fdcfd485d392e19e
-MD5sum: 96fefaf52e6c59e4969ee34e9a2254ca
+Filename: pool/contrib/libc/libcec-daemon/libcec-daemon_0.9.5-1_armhf.deb
+Size: 158650
+SHA256: 5b886877edf2814225aee446fce414ee2a518d64cfa9b0f87b64c4de19b881a7
+SHA1: 6c15307419cf539529c914aa49173345ff56df96
+MD5sum: cab2aa50cbd99e845440738b2875fce8
 Description: A simple daemon to connect libcec to uinput.
- That is, using your TV to control your PC!
+ That is, using your TV to control your device
 
 Package: squeezeplay
 Version: 7.8.0+551~8d562e353

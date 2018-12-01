@@ -1,3 +1,22 @@
+Package: logitechmediaserver
+Version: 7.9.1
+Architecture: all
+Maintainer: Logitech/Slim Devices <debian@slimdevices.com>
+Installed-Size: 139176
+Depends: perl (>= 5.8.8), adduser, libc6, libgcc1, libstdc++6, zlib1g, libio-socket-ssl-perl, libgomp1 (>= 4.2.1)
+Conflicts: slimp3, slimserver, squeezeboxserver, squeezecenter
+Replaces: slimp3, slimserver, squeezeboxserver, squeezecenter
+Priority: optional
+Section: sound
+Filename: pool/contrib/l/logitechmediaserver/logitechmediaserver_7.9.1_all.deb
+Size: 41508634
+SHA256: 547c60417440be97fed29e964963d82760d174a1bc62ea629ce15209825817aa
+SHA1: a96cc6c44ca62ae25ad8feb2fceeea5f39a2ea7a
+MD5sum: faabf516e0392cc52afa92f21a624422
+Description: Streaming Audio Server
+ Logitech Media Server is a cross-platform streaming media server that supports a wide range
+ of formats, including AAC, AIFF, FLAC, Ogg Vorbis, MP3, WAV, and WMA.
+
 Package: squeezeplay
 Version: 7.8.0+544~fd4e418b9
 Architecture: armhf

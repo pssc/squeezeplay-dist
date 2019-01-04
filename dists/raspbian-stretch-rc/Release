@@ -1,18 +1,18 @@
 Suite: stable
 Codename: raspbian-stretch-rc
-Date: Thu, 03 Jan 2019 14:15:34 UTC
+Date: Fri, 04 Jan 2019 16:22:08 UTC
 Architectures: armhf
 Components: contrib
 Description: Raspbian rc
 MD5Sum:
- 524d473832b187af5a2f1b6892ebe525 3141 contrib/binary-armhf/Packages
- 2171531a25561e9734bdd3eeb43b9e73 1228 contrib/binary-armhf/Packages.gz
+ ddc08a022e5f63fc9aa237c472286698 3141 contrib/binary-armhf/Packages
+ f67ed8d6a04beff6684045b316cd7a82 1227 contrib/binary-armhf/Packages.gz
  46eed5afdb912727c5e8326bcec36ae8 80 contrib/binary-armhf/Release
 SHA1:
- ff15c2bec37ad9918f5032d4d05c8357f195f480 3141 contrib/binary-armhf/Packages
- c6f03197994fb9a8f5d662c9e35575ad15504aa4 1228 contrib/binary-armhf/Packages.gz
+ 75f98e352944de4df302aac5ba21c7e59c67e35b 3141 contrib/binary-armhf/Packages
+ 3fdaac530b9d82bcc0444cbd6483d88cdb0d2df1 1227 contrib/binary-armhf/Packages.gz
  df4c2f3d29643cb15545058b1e3fe82ffcbb817b 80 contrib/binary-armhf/Release
 SHA256:
- c529e2572fa753d8281ef67ea1270f0d0a41dd74a0d384c8ef8b004ffc7f56e1 3141 contrib/binary-armhf/Packages
- 4e95c5237ee813bd4a73c82902a7b42e0e4cf2805acfc81c0b27516cab5c3f89 1228 contrib/binary-armhf/Packages.gz
+ ee12a12344ad6e9563796463c463e26aa8d965b5614067f6d6565465aa12ab0e 3141 contrib/binary-armhf/Packages
+ d00aeea32d5267ed7c9b2da7ea7a4e019407eb7fc2ec465ad930d04fd2a732e5 1227 contrib/binary-armhf/Packages.gz
  5aed4c54466c537f1cbe9de8ecdfe412ee74c22784c2d52fdd3dead7b5e228a7 80 contrib/binary-armhf/Release

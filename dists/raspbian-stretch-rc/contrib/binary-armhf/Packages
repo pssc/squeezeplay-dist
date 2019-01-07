@@ -16,28 +16,28 @@ Description: A simple daemon to connect libcec to uinput.
  That is, using your TV to control your device
 
 Package: squeezeplay
-Version: 7.8.0+575~ce47a3902
+Version: 7.8.0+576~a78e41545
 Architecture: all
 Maintainer: Not a Vaild email <pssc@github.com>
-Installed-Size: 1195
+Installed-Size: 1197
 Depends: squeezeplay-common
 Recommends: alsa-utils, wicd-curses, wicd
 Suggests: autossh, libcec-daemon
 Homepage: https://github.com/pssc/squeezeplay
 Priority: optional
 Section: sound
-Filename: pool/contrib/s/squeezeplay/squeezeplay_7.8.0+575~ce47a3902_all.deb
+Filename: pool/contrib/s/squeezeplay/squeezeplay_7.8.0+576~a78e41545_all.deb
 Size: 1149062
-SHA256: a0d795de97bf05a08dc5f159fc179955f1d39f3c843df5453f81e3e7b4b382cc
-SHA1: 0a9edc6aa5e385f21a3cef96bf9d2d9635e383b3
-MD5sum: 7573d642f7b17fcc2ef25617fec138f9
+SHA256: 867fc197c0fd4e819efa99e22b9f4055e5f4c368408fa1ffdf51b68b064c82f4
+SHA1: bc7fa93ba0dfcf3528c7bfa9dbfd7ef8d4676f00
+MD5sum: 1838cab543683349a829b60fed903fd0
 Description: Logitech SqueezePlay
  SqueezePlay is a Grapical client for the Logitech/SqueezeCenter music streaming server.
  Supporting configuration.
 
 Package: squeezeplay-bin
 Source: squeezeplay
-Version: 7.8.0+575~ce47a3902
+Version: 7.8.0+576~a78e41545
 Architecture: armhf
 Maintainer: Not a Vaild email <pssc@github.com>
 Installed-Size: 12775
@@ -45,31 +45,31 @@ Depends: libmad0, libflac8, libasound2, libjpeg62-turbo, libpng16-16, libogg0, s
 Homepage: https://github.com/pssc/squeezeplay
 Priority: optional
 Section: sound
-Filename: pool/contrib/s/squeezeplay/squeezeplay-bin_7.8.0+575~ce47a3902_armhf.deb
-Size: 2078090
-SHA256: ac640d7cafe7629cf53f722c97f4fa04ce2b8b3b097e307a07add31676635788
-SHA1: 7620eed98ecbecd52fc13a49be648a7e8c9bea18
-MD5sum: 50b6c317cf5f6a4916041bb751dd9717
+Filename: pool/contrib/s/squeezeplay/squeezeplay-bin_7.8.0+576~a78e41545_armhf.deb
+Size: 2077558
+SHA256: 3286a032abc61f19718e82b7ccf83a9426c5a7f818de7ff5983b8833f91889f9
+SHA1: 2274b23c868ee42bccf8f16acfbfee01b2b7ef84
+MD5sum: 714c4d076901d3a4fea2e848def4a7f0
 Description: Logitech SqueezePlay
  SqueezePlay is a Grapical client for the Logitech/SqueezeCenter music streaming server.
  Jive core, a lua and sdl based platfrom.
 
 Package: squeezeplay-common
 Source: squeezeplay
-Version: 7.8.0+575~ce47a3902
+Version: 7.8.0+576~a78e41545
 Architecture: all
 Maintainer: Not a Vaild email <pssc@github.com>
-Installed-Size: 26954
+Installed-Size: 26955
 Depends: squeezeplay-bin
 Suggests: x11vnc
 Homepage: https://github.com/pssc/squeezeplay
 Priority: optional
 Section: sound
-Filename: pool/contrib/s/squeezeplay/squeezeplay-common_7.8.0+575~ce47a3902_all.deb
-Size: 16738034
-SHA256: be69670385756c0bf0333bcfad3db2bf147d3042e2caabb6a272fb39a0f79009
-SHA1: c7a2b6443bfbbec387549c5225c72d5065517db8
-MD5sum: 657a1c6c14ef1065cccbea2a5e484717
+Filename: pool/contrib/s/squeezeplay/squeezeplay-common_7.8.0+576~a78e41545_all.deb
+Size: 16738104
+SHA256: 4351f6c46ec34c100ff09a6378c293a29e99a83ffe5300f1f1efedd2c485b36c
+SHA1: ca0e957cc137d68883d28659030c2b14427b2ebb
+MD5sum: 00a546c21f0a931b0349a580e15de953
 Description: Logitech SqueezePlay Lua Code and supporting scripts and config
  SqueezePlay is a Grapical client for the Logitech/SqueezeCenter music streaming server.
  Lua based code.

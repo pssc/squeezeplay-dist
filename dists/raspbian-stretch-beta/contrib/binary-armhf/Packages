@@ -19,7 +19,7 @@ Package: squeezeplay
 Version: 7.8.0+575~ce47a3902
 Architecture: all
 Maintainer: Not a Vaild email <pssc@github.com>
-Installed-Size: 1194
+Installed-Size: 1195
 Depends: squeezeplay-common
 Recommends: alsa-utils, wicd-curses, wicd
 Suggests: autossh, libcec-daemon
@@ -27,10 +27,10 @@ Homepage: https://github.com/pssc/squeezeplay
 Priority: optional
 Section: sound
 Filename: pool/contrib/s/squeezeplay/squeezeplay_7.8.0+575~ce47a3902_all.deb
-Size: 1149020
-SHA256: f44c86a99678a04ff73e9c6496156a4a23a38b66b1bd191decd5922ed73ea8f1
-SHA1: 1d723ba0289625f63db3fd445ee2fee3272d171a
-MD5sum: 192f645221db0ae2ae4fa2fc993ab297
+Size: 1149062
+SHA256: a0d795de97bf05a08dc5f159fc179955f1d39f3c843df5453f81e3e7b4b382cc
+SHA1: 0a9edc6aa5e385f21a3cef96bf9d2d9635e383b3
+MD5sum: 7573d642f7b17fcc2ef25617fec138f9
 Description: Logitech SqueezePlay
  SqueezePlay is a Grapical client for the Logitech/SqueezeCenter music streaming server.
  Supporting configuration.
